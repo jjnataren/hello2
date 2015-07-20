@@ -12,3 +12,5 @@ tests
 
 
 mas test
+
+mas tests
